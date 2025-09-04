@@ -35,11 +35,14 @@ Let's say I want to restore the database 1058 to an earlier version.
   
 ### Post upgrade cleaning up
 
-1. Go to the database property and change the Logical name.
+1. Go to the database property and change the Logical name...
 
    <img width="704" height="655" alt="image" src="https://github.com/user-attachments/assets/587b0719-b48f-49b8-bac6-1daa7b127220" />
 
 
+   and change them so that it matches the database name.
+
+   <img width="707" height="650" alt="image" src="https://github.com/user-attachments/assets/d4a25e75-f5fa-4215-a920-fc72cba6d5f0" />
 
 
 
